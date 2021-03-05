@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SneakersNg</string>
+    <string name="about_us">We are a small sneakers retail business, We sell affordable classy sneakers that meet your daily fashion needs. SneakersNg has a policy of giving
+    our customers the best experience shopping with us. We provide online ordering service. You can call and place an order and get your sneakers delivered right to your door step
+        We are primarily an online e-commerce business.
+    </string>
+    <string name="title">SneakersNg</string>
+    <string name="home">Home</string>
+    <string name="about">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="phone_number">08104724819</string>
+    <string name="email">sneakerng@gmail.com</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="your_email">Your Email</string>
+    <string name="subscribe">Subscribe</string>
+</resources>
